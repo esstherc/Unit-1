@@ -1,1 +1,1 @@
-// Yanbing Chen Script
+/* Main by Yanbing Chen, 2024 */
